@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+long i,n,a,b,c;string d="CHEF",e="COOK";
+cin>>n;
+for(i=1;i<=n;i++)
+{
+cin>>a>>b>>c;
+if(((a+b)/c)%2==0)
+cout<<d<<endl;
+else
+cout<<e<<endl;
+}
+}
+
