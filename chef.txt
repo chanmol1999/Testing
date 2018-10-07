@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-long i,n,a,b,c;string d="CHEF",e="COOK";
+long i,n,d,a,b,c;string d="CHEF",e="COOK";
 cin>>n;
 for(i=1;i<=n;i++)
 {
